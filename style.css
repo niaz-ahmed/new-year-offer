@@ -140,3 +140,13 @@ margin-left: 80px;
 .img-container{
     margin-right: 120px;
 }
+
+
+html {
+    scroll-behavior: smooth;
+   }
+
+   a {
+    text-decoration: none;
+    color: white;
+   }
